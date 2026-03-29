@@ -1,0 +1,12 @@
+{
+  "name": "loaction-tracker",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "prettier": "^3.8.1",
+    "ws": "^8.19.0"
+  }
+}
