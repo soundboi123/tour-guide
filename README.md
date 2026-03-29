@@ -35,11 +35,11 @@ sidenote: this project consists of 2 parts, the frontend and the backend, in the
 ### 1. Clone and install
 
 ```bash
-# Frontend
+
 cd frontend
 pnpm install
 
-# Backend
+
 cd ../backend
 npm install
 pip install kokoro-onnx soundfile flask
@@ -50,7 +50,7 @@ pip install kokoro-onnx soundfile flask
 ```bash
 ollama pull llama3.2:3b
 ```
-
+This will also automatically run the model
 ### 3. Start everything
 
 **Backend WebSocket server:**
