@@ -30,7 +30,9 @@ Built with Vue 3, OpenLayers, WebSockets, Wikidata, Ollama LLM, and Kokoro TTS.
 
 ## Setup
 
-sidenote: this project consists of 2 parts, the frontend and the backend, in the way I did it both need to be hosted separately. in the same host as the backend you also need to have ollama installed and running. 
+sidenote: this project consists of 2 parts, the frontend and the backend, in the way I did it both need to be hosted separately. in the same host as the backend you also need to have ollama installed and running.
+
+There are also a bunch of URL's that will need to be changed when you want to host the project on your own. but that's up to you to figure that out, it's not hard at all.
 
 ### 1. Clone and install
 
